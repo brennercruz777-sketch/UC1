@@ -9,3 +9,4 @@ else:
 print('Teste de PULL')
 print('teste de push pelo vscode')
 print('teste de push pelo vscode 2')
+print('teste de push pelo vscode 3')
