@@ -21,3 +21,4 @@ match opcao:
         print('Opção Invalida')
 print(f'O resultado é {resultado}')
 print('teste de commit')
+print('teste de push pelo vscode')
