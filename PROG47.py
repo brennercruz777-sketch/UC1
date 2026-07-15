@@ -8,5 +8,3 @@ while valor_item != 0:
     total += valor_item
 p = total * 1.1
 print(f'O valor total da comanda com os 10% é {p}')
-
-
